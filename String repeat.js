@@ -5,3 +5,4 @@ function repeatStr (n, s) {
   }
   return str;
 }
+
