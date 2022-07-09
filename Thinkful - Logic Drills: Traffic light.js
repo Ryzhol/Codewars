@@ -14,3 +14,4 @@ function updateLight(current) {
   return current;
 
 }
+
